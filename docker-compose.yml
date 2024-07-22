@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  auto-gpt:
+    image: significantgravitas/auto-gpt
+    env_file:
+      - .env
+    profiles: ["exclude-from-up"]
+    volumes:
+      - ./auto_gpt_workspace:/app/auto_gpt_workspace
+      - ./data:/app/data
+      - ./logs:/app/logs
