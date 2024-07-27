@@ -1,0 +1,5 @@
+2024-07-27 19:32:50,012 ERROR config.py:301  Please set your OpenAI API key in .env or as an environment variable.
+2024-07-27 19:35:00,050 ERROR config.py:329  Invalid OpenAI API key! Please set your OpenAI API key in .env or as an environment variable.
+2024-07-27 19:35:22,343 ERROR config.py:329  Invalid OpenAI API key! Please set your OpenAI API key in .env or as an environment variable.
+2024-07-27 19:35:53,217 ERROR config.py:329  Invalid OpenAI API key! Please set your OpenAI API key in .env or as an environment variable.
+2024-07-27 19:39:35,876 ERROR main.py:498  Quitting immediately...
